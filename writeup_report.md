@@ -61,16 +61,15 @@ Here are some images to show how the pipeline works
 ![alt text][image8]
 
 
-### 2. Identify potential shortcomings with your current pipeline
+### 2. Identify potential shortcomings with current pipeline
 
+One potential shortcoming would be what would happen when the car ahead is at the middle of the image. 
 
-One potential shortcoming would be what would happen when ... 
-
-Another shortcoming could be ...
+Another shortcoming could be that the lines produced by the pipeline are not able to be curve.
 
 
 ### 3. Suggest possible improvements to your pipeline
 
-A possible improvement would be to ...
+A possible improvement would be to remove the car's edge in the image to detect the land mark more accurately.
 
-Another potential improvement could be to ...
+Another potential improvement could be to have a function to draw a curve lines in the image to represent the real land marks.
