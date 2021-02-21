@@ -37,7 +37,6 @@ The goals / steps of this project are the following:
 5. I defined the parameters of Hough transform and draw the lings on the image directly.
 6. I merged the origina limage and the lines derivied from step 5 into one single output image.
 
----
 
 * In order to draw a single line on the left and right lanes, I modified the draw_lines() function by following steps: 
 
@@ -60,13 +59,15 @@ Here are some images to show how the pipeline works
 ![alt text][image7]
 ![alt text][image8]
 
+---
 
 ### 2. Identify potential shortcomings with current pipeline
 
-One potential shortcoming would be what would happen when the car ahead is at the middle of the image. 
+* One potential shortcoming would be what would happen when the car ahead is at the middle of the image. 
 
-Another shortcoming could be that the lines produced by the pipeline are not able to be curve.
+* Another shortcoming could be that the lines produced by the pipeline are not able to be curve.
 
+---
 
 ### 3. Suggest possible improvements to your pipeline
 
