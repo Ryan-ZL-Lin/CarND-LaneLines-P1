@@ -19,6 +19,8 @@ The goals / steps of this project are the following:
 [image4]: ./test_images_output/solidYellowCurve.jpg "solidYellowCurve"
 [image5]: ./test_images_output/solidYellowCurve2.jpg "solidYellowCurve2"
 [image6]: ./test_images_output/solidYellowLeft.jpg "solidYellowLeft"
+[image7]: ./test_images_output/hLine2.jpg "hLine2"
+[image8]: ./test_images_output/hLine3.jpg "hLine3"
 
 ---
 
@@ -47,9 +49,16 @@ The goals / steps of this project are the following:
 6. Draw 2 lines in the image based on the reuslt from step 5.
 
 
-If you'd like to include images to show how the pipeline works, here is how to include an image: 
+Here are some images to show how the pipeline works
 
 ![alt text][image1]
+![alt text][image2]
+![alt text][image3]
+![alt text][image4]
+![alt text][image5]
+![alt text][image6]
+![alt text][image7]
+![alt text][image8]
 
 
 ### 2. Identify potential shortcomings with your current pipeline
