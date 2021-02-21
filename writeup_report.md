@@ -13,12 +13,12 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./test_images/solidWhiteCurve.jpg "solidWhiteCurve"
-[image2]: ./test_images/whiteCarLaneSwitch.jpg "whiteCarLaneSwitch"
-[image3]: ./test_images/solidWhiteRight.jpg "solidWhiteRight"
-[image4]: ./test_images/solidYellowCurve.jpg "solidYellowCurve"
-[image5]: ./test_images/solidYellowCurve2.jpg "solidYellowCurve2"
-[image6]: ./test_images/solidYellowLeft.jpg "solidYellowLeft"
+[image1]: ./test_images_output/solidWhiteCurve.jpg "solidWhiteCurve"
+[image2]: ./test_images_output/whiteCarLaneSwitch.jpg "whiteCarLaneSwitch"
+[image3]: ./test_images_output/solidWhiteRight.jpg "solidWhiteRight"
+[image4]: ./test_images_output/solidYellowCurve.jpg "solidYellowCurve"
+[image5]: ./test_images_output/solidYellowCurve2.jpg "solidYellowCurve2"
+[image6]: ./test_images_output/solidYellowLeft.jpg "solidYellowLeft"
 
 ---
 
