@@ -19,6 +19,8 @@ The goals / steps of this project are the following:
 [image4]: ./test_images_output/solidYellowCurve.jpg "solidYellowCurve"
 [image5]: ./test_images_output/solidYellowCurve2.jpg "solidYellowCurve2"
 [image6]: ./test_images_output/solidYellowLeft.jpg "solidYellowLeft"
+[image7]: ./test_images_output/hLine2.jpg "hLine2"
+[image8]: ./test_images_output/hLine3.jpg "hLine3"
 
 ---
 
@@ -35,7 +37,6 @@ The goals / steps of this project are the following:
 5. I defined the parameters of Hough transform and draw the lings on the image directly.
 6. I merged the origina limage and the lines derivied from step 5 into one single output image.
 
----
 
 * In order to draw a single line on the left and right lanes, I modified the draw_lines() function by following steps: 
 
@@ -47,21 +48,29 @@ The goals / steps of this project are the following:
 6. Draw 2 lines in the image based on the reuslt from step 5.
 
 
-If you'd like to include images to show how the pipeline works, here is how to include an image: 
+Here are some images to show how the pipeline works
 
 ![alt text][image1]
+![alt text][image2]
+![alt text][image3]
+![alt text][image4]
+![alt text][image5]
+![alt text][image6]
+![alt text][image7]
+![alt text][image8]
 
+---
 
-### 2. Identify potential shortcomings with your current pipeline
+### 2. Identify potential shortcomings with current pipeline
 
+* One potential shortcoming would be what would happen when the car ahead is at the middle of the image. 
 
-One potential shortcoming would be what would happen when ... 
+* Another shortcoming could be that the lines produced by the pipeline are not able to be curve.
 
-Another shortcoming could be ...
-
+---
 
 ### 3. Suggest possible improvements to your pipeline
 
-A possible improvement would be to ...
+A possible improvement would be to remove the car's edge in the image to detect the land mark more accurately.
 
-Another potential improvement could be to ...
+Another potential improvement could be to have a function to draw a curve lines in the image to represent the real land marks.
