@@ -13,7 +13,12 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./examples/grayscale.jpg "Grayscale"
+[image1]: ./test_images/solidWhiteCurve.jpg "solidWhiteCurve"
+[image2]: ./test_images/whiteCarLaneSwitch.jpg "whiteCarLaneSwitch"
+[image3]: ./test_images/solidWhiteRight.jpg "solidWhiteRight"
+[image4]: ./test_images/solidYellowCurve.jpg "solidYellowCurve"
+[image5]: ./test_images/solidYellowCurve2.jpg "solidYellowCurve2"
+[image6]: ./test_images/solidYellowLeft.jpg "solidYellowLeft"
 
 ---
 
